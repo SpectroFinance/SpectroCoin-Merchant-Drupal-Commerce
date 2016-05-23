@@ -1,4 +1,4 @@
-Commerce SpectroCoin
+SpectroCoin Bitcoin Payment Extension
 ---------------
 
 This module integrates [SpectroCoin](https://spectrocoin.com/) Payments with [Drupal Commerce](https://drupal.org/project/commerce) to accept [Bitcoin](https://bitcoin.org) payments.
@@ -21,3 +21,12 @@ SpectroCoin only supports EUR, BTC payments.
 If your shop uses additional currencies, you should take additional measures,
 like through installing [Commerce Multicurrency](https://www.drupal.org/project/commerce_multicurrency), to be sure all orders are
 converted to the currency, which is supported by SpectroCoin.
+
+**INFORMATION** 
+
+1. You can contact us e-mail: info@spectrocoin.com 
+2. You can contact us by phone: +442037697306
+ 
+**TITLES**
+
+SpectroCoin-Bitcoin-Merchant-Drupal-Plugin-Money-Shop
