@@ -1,6 +1,12 @@
 SpectroCoin Bitcoin Payment Extension
 ---------------
 
+**MOVED**
+
+Up to date version can be found in [SpectroCoin Repo](https://github.com/SpectroCoin/Drupal-Bitcoin-Payment-Gateway-Module)
+
+---------------
+
 This merchant module integrates [SpectroCoin](https://spectrocoin.com/) Payments with [Drupal Commerce](https://drupal.org/project/commerce) to accept [Bitcoin](https://bitcoin.org) payments.
 
 **INSTALLATION**
